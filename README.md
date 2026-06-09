@@ -1,6 +1,6 @@
 # Software Design Skill
 
-A curated collection of battle-tested software design principles for monolith applications.
+A curated collection of battle-tested software design principles for monolith applications — for both AI agents and humans.
 
 ## What's inside
 
@@ -57,3 +57,7 @@ Each principle includes:
 ## License
 
 MIT
+
+## 中文版
+
+中文版位于 [`_zh/`](_zh/) 目录，结构完全一致，从 [`_zh/SKILL.md`](_zh/SKILL.md) 开始阅读。
