@@ -9,5 +9,5 @@
 - Interface design principles (4): Law of Demeter, CQS, Postel's Law, Least Surprise
 - Package design principles (3): ADP, CCP, SDP
 - Architecture principles (7): Layered, Dependency Rule, Ports & Adapters, DDD Lightweight
-- Chinese version (_zh/): SKILL.md + references/ (no examples/ or scripts/)
+- Chinese version (_zh/): SKILL.md + references/ only
 - Progressive disclosure pattern
