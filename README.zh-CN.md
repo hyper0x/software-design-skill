@@ -15,7 +15,7 @@ SKILL.md                    ← 导航页（渐进式暴露）
 │   └── architecture.md     — 分层、依赖规则、端口与适配器、DDD 轻量替代
 ├── examples/               — 重构前后代码示例（即将推出）
 ├── scripts/                — 自动化脚本（即将推出）
-├── _zh/                    — 中文版，结构一致
+├── _zh/                    — 中文版（镜像根目录结构）
 │   ├── SKILL.md
 │   └── references/
 ├── README.md

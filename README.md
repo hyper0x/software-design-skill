@@ -15,7 +15,7 @@ SKILL.md                    ← Navigation hub (progressive disclosure)
 │   └── architecture.md     — Layered, Dependency Rule, Ports & Adapters, DDD lightweight
 ├── examples/               — Before/after code examples (coming soon)
 ├── scripts/                — Automation scripts (coming soon)
-├── _zh/                    — Chinese version, same structure
+├── _zh/                    — Chinese version (mirrors root structure)
 │   ├── SKILL.md
 │   └── references/
 ├── README.md
@@ -60,4 +60,4 @@ MIT
 
 ## 中文版
 
-中文版位于 [`_zh/`](_zh/) 目录，结构完全一致，从 [`_zh/SKILL.md`](_zh/SKILL.md) 开始阅读。
+中文版位于 [`_zh/`](_zh/) 目录，内部结构与英文版一致（SKILL.md + references/），从 [`_zh/SKILL.md`](_zh/SKILL.md) 开始阅读。

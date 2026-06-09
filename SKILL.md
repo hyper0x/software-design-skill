@@ -32,7 +32,7 @@ SKILL.md               ← Navigation hub (this file)
 └── scripts/           ← Automation (audit, lint, etc.)
 ```
 
-Chinese version is available in `_zh/` with the same structure.
+Chinese version is available in `_zh/` (mirrors the root structure).
 
 ---
 
