@@ -32,7 +32,7 @@ SKILL.md                    ← 导航页（本文件）
 └── scripts/                ← 自动化脚本（审计、lint等）
 ```
 
-英文版在根目录，中文版在 `_zh/`，内部结构一致（SKILL.md + references/）。
+英文版在根目录（含 SKILL.md + references/ + examples/ + scripts/），中文版在 `_zh/`（含 SKILL.md + references/）。
 
 ---
 
