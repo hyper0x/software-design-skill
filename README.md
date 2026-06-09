@@ -50,10 +50,6 @@ Each principle includes:
 - **Before/After** — Concrete code examples
 - **Gotchas** — Common mistakes even experienced developers make
 
-## Related
-
-- [skill-composer-se](https://github.com/hyper0x/skill-composer-se) — Software engineering workflow (TDD, refactoring, design review)
-
 ## License
 
 MIT

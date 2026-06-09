@@ -50,10 +50,6 @@ SKILL.md                    ← 导航页（渐进式暴露）
 - **重构前后** — 具体代码示例
 - **踩坑** — 老手都会犯的错
 
-## 相关项目
-
-- [skill-composer-se](https://github.com/hyper0x/skill-composer-se) — 软件工程工作流（TDD、重构、设计评审）
-
 ## 许可证
 
 MIT
